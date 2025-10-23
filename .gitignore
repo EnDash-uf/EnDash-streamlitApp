@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit secrets (local only; do NOT commit real secrets)
+.streamlit/secrets.toml
+
+# App generated data
+data/
